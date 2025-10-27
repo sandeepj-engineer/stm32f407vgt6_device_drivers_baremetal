@@ -5,8 +5,8 @@
  *      Author: Sandeep J
  */
 
-#ifndef STD_TYPES_H_
-#define STD_TYPES_H_
+#ifndef INC_STD_TYPES_H_
+#define INC_STD_TYPES_H_
 
 /**
  * @defgroup Generic_Macros Generic Macros
@@ -37,4 +37,4 @@
 
 /** @} STM32F407XX_DEFINITIONS */
 
-#endif /* STD_TYPES_H_ */
+#endif /* INC_STD_TYPES_H_ */
