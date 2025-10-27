@@ -16,7 +16,8 @@
 #include <string.h>
 #include <stdbool.h>
 #include <math.h>
-#include "Std_Types.h"
+
+#include "../../common_libraries/inc/Std_Types.h"
 
 /********************************** START : Processor Specific Details **********************************************/
 
