@@ -8,6 +8,7 @@
 
 // Including necessary header file
 #include "stm32f407xx_i2c_driver.h"
+#include "stm32f407xx_rcc_driver.h"
 
 // Helper functions (static/private)
 static void I2C_GenerateStartCondition(I2C_RegDef_t *pI2Cx);
