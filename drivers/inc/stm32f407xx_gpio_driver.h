@@ -26,7 +26,7 @@ typedef struct
     uint32_t GPIO_PinMode;          /*!< Specifies the mode of the GPIO pin. */
     uint32_t GPIO_PinSpeed;         /*!< Specifies the speed of the GPIO pin. */
     uint32_t GPIO_PinPuPdControl;   /*!< Specifies the pull-up/pull-down configuration for the GPIO pin. */
-    uint32_t GPIO_PinPinOPType;     /*!< Specifies the output type of the GPIO pin. */
+    uint32_t GPIO_PinOPType;     /*!< Specifies the output type of the GPIO pin. */
     uint32_t GPIO_PinAltFunMode;    /*!< Specifies the alternate function mode of the GPIO pin. */
 } GPIO_PinConfig_t;
 
